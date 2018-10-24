@@ -1,3 +1,3 @@
-#MY App
+#MyApp
 THis is my App
-Learning Git 
+Learning Git
